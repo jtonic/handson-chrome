@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "Getting started example",
-  "description": "This extension shows a Google Image search result for the current page",
+  "name": "A simple chrome extension example.",
+  "description": "This extension shows a Google Image search result for the current page and latest entry in the bookmarks.",
   "version": "1.0",
 
   "browser_action": {
